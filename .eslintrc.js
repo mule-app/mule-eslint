@@ -297,10 +297,6 @@ module.exports = {
     'no-implied-eval': 'error',
     'comma-spacing': 'error',
     'func-call-spacing': 'error',
-    'space-before-function-paren': [
-      'error',
-      'always'
-    ],
     'space-before-blocks': [
       'error',
       'always'
