@@ -15,6 +15,7 @@ module.exports = {
     'node_modules',
   ],
   rules: {
+    'space-before-function-paren': ['error', 'never'],
     'dot-location': [
       'error',
       'property'
