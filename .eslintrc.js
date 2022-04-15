@@ -210,7 +210,7 @@ module.exports = {
     ],
     'array-bracket-spacing': [
       'error',
-      'always'
+      'never'
     ],
     'quotes': [
       'error',
