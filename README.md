@@ -1,5 +1,8 @@
 # Mule eslint configuration 
 
+[![npm version](https://badge.fury.io/js/eslint-config-mule.svg)](https://badge.fury.io/js/eslint-config-mule)
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)
+
 ## How to use
 
 1. Install package.
